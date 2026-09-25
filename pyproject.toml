@@ -1,0 +1,5 @@
+[project]
+name = "ai-change-checklist"
+version = "0.1.0"
+description = "Prepare an AI prompt for reviewing business scenarios in a ticket and PR"
+requires-python = ">=3.10"
