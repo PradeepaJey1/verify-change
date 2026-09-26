@@ -4,3 +4,9 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+.env
+
+# Local inputs and output can contain ticket or PR details.
+inputs/
+checklist-prompt.txt
+checklist.md
